@@ -80,6 +80,9 @@
   | Supports Hours realtime                      	|    ✅   	|
   | Supports creation of insult of chat           |    ✅   	|
   | Supports Integration whit ChatGPT           	|    ✅   	|
+  | Supports Integration whit Google Translate   	|    ✅   	|
+  | Supports Integration whit MeMe-Maker         	|    ✅   	|
+  
 
 
   
