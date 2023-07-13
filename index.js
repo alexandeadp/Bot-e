@@ -233,3 +233,11 @@ if (message.body.startsWith(`${config.prefix}chat`)) {
 });
 
 client.initialize();
+
+
+const browser = await puppeteer.launch({
+    'args' : [
+      '--no-sandbox',
+      '--disable-setuid-sandbox'
+    ]
+  });
