@@ -4,7 +4,10 @@
   "description": "bot-e - technical-review",
   "main": "index.js",
   "scripts": {
-    "start": "node ."
+    "start": "node .",
+    "postinstall": "apt-get update && apt-get install -y libatk1.0-0"
+
+    
   },
   "keywords": [
     "technical-reviews",
