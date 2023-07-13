@@ -1,10 +1,10 @@
 # StickerWhatsAppBOT
 <p align="center">
-  <img alt="@alquranid" style="width: 150px;" src="https://cdn.discordapp.com/attachments/858321432178196490/1023200282479439933/a2cb87c97e9786637783db3b9639143a.gif">
+  <img alt="@alquranid" style="width: 150px;" src="./config/imgs/bot.gif">
 </p>
 <div align="center">
-  <h3>StickerWhatsAppBOT</h3>
-  <p>Sticker WhatsAppBOT with <a href="https://github.com/pedroslopez/whatsapp-web.js/">whatsapp-web.js</a> and <a href="https://nodejs.org/en/">nodejs</a></p>
+  <h3>BOT-E</h3>
+  <p>Sticker BOT-E with <a href="https://github.com/pedroslopez/whatsapp-web.js/">whatsapp-web.js</a> and <a href="https://nodejs.org/en/">nodejs</a></p>
 </div>
 <div align="center">
   <a href="#warning">Warning</a> | <a href="https://dsc.gg/DrelezTM">Report Bug</a> | <a href="https://github.com/DrelezTM/StickerWhatsAppBOT/issues">Issues</a>
@@ -13,7 +13,7 @@
 ## Installation 📑
 * Clone Repository
   ```sh
-  git clone https://github.com/DrelezTM/StickerWhatsAppBOT
+  git clone https://github.com/alexandeadp/Bot-e
   ```
 * Install Modules
   ```sh
@@ -27,16 +27,16 @@
   <img alt="@stickerwhatsappbot" src="https://media.discordapp.net/attachments/858321432178196490/1023202756049240145/ss2.png?width=1440&height=566">
 
 * Ready
-  <img alt="@stickerwhatsappbot" src="https://media.discordapp.net/attachments/858321432178196490/1023202755709517834/ss1.png?width=1440&height=241">
+  <img alt="@stickerwhatsappbot" src="./config/imgs/README.md - Bot-e - Visual Studio Code 13_7_2023 5_47_30 a. m..png">
  
  ## Configuration 🗝
-* [config.json](https://github.com/DrelezTM/StickerWhatsAppBOT/blob/main/config/config.json)
+* [config.json](https://github.com/alexandeadp/Bot-e/blob/main/config/config.json)
   ```json
   {
-    "name": "StickerBOT",
-    "author": "@DrelezTM",
+    "name": "BOT-E",
+    "author": "Technical-Reviews",
     "prefix": "!",
-    "timezone": "Asia/Jakarta",
+    "timezone": "America/Santo_Domingo",
     "groups": true
   }
   ```
@@ -48,14 +48,18 @@
 * [console.txt](https://github.com/DrelezTM/StickerWhatsAppBOT/blob/main/config/console.txt)
   ```txt
   
-    /$$$$$$   /$$     /$$           /$$                           /$$$$$$$   /$$$$$$  /$$$$$$$$
-   /$$__  $$ | $$    |__/          | $$                          | $$__  $$ /$$__  $$|__  $$__/
-  | $$  \__//$$$$$$   /$$  /$$$$$$$| $$   /$$  /$$$$$$   /$$$$$$ | $$  \ $$| $$  \ $$   | $$   
-  |  $$$$$$|_  $$_/  | $$ /$$_____/| $$  /$$/ /$$__  $$ /$$__  $$| $$$$$$$ | $$  | $$   | $$   
-   \____  $$ | $$    | $$| $$      | $$$$$$/ | $$$$$$$$| $$  \__/| $$__  $$| $$  | $$   | $$   
-   /$$  \ $$ | $$ /$$| $$| $$      | $$_  $$ | $$_____/| $$      | $$  \ $$| $$  | $$   | $$   
-  |  $$$$$$/ |  $$$$/| $$|  $$$$$$$| $$ \  $$|  $$$$$$$| $$      | $$$$$$$/|  $$$$$$/   | $$   
-   \______/   \___/  |__/ \_______/|__/  \__/ \_______/|__/      |_______/  \______/    |__/   
+  
+   /$$$$$$$     /$$$$$$\   /$$$$$$$$           /$$$$$$$$$$            
+  | $$__  $$   /$$__  $$  |__  $$____/        /___$$$$____/
+  | $$  \ $$  | $$  \ $$     | $$             |$$ 
+  | $$$$$$$   | $$  | $$     | $$             |$$_________
+  | $$__  $$  | $$  | $$     | $$   /$$$$$$/  |$$$$$$$$$ /
+  | $$  \ $$  | $$  | $$     | $$             |$$
+  | $$$$$$$/  |  $$$$$$/     | $$             |$$$$$$$$$$$
+  |_______/    \______/      |__/             \___________/
+
+
+
 
   ```
   You can replace ascii in https://patorjk.com/software/taag/
@@ -73,7 +77,12 @@
   | Supports Reply Image to Sticker             	|    ✅   	|
   | Supports Reply Video to Sticker             	|    ✅   	|
   | Supports Reply Gif to Sticker               	|    ✅   	|
-  | Supports Reply Stickers to Images           	|    ✅   	|
+  | Supports Hours realtime                      	|    ✅   	|
+  | Supports creation of insult of chat           |    ✅   	|
+  | Supports Integration whit ChatGPT           	|    ✅   	|
+
+
+  
 
 ## Commands 💭
   <table class="tg">
@@ -106,14 +115,9 @@
 * [Colors](https://www.npmjs.com/package/colors)
 * [FS](https://www.npmjs.com/package/fs)
 
-## Error or Bug 🐞
-* [Discord](https://dsc.gg/DrelezTM)
-* [YouTube](https://www.youtube.com/p/DrelezTM)
-* [Instagram](https://www.instagram.com/DrelezTM)
-* [Issues](https://github.com/DrelezTM/StickerWhatsAppBOT/issues)
 
 ## License 📜
-* [License](https://github.com/DrelezTM/StickerWhatsAppBOT/blob/main/LICENSE)
+* [License](https://github.com/alexandeadp/Bot-e/blob/main/LICENSE)
 
 ## Warning 🚧
 <p id="warning">Only works on Windows, MacOS, and Linux. <b>Can't work on Android/Termux</b>!</p>
