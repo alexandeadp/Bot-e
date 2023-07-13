@@ -1,0 +1,28 @@
+{
+  "name": "bot-e",
+  "version": "1.0.0",
+  "description": "bot-e - technical-review",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [
+    "technical-reviews",
+    "-",
+    "bot-e"
+  ],
+  "author": "technical-review",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "ffmpeg": "^0.0.4",
+    "fs": "^0.0.1-security",
+    "google-translate-api": "^2.3.0",
+    "meme-maker": "^2.1.2",
+    "moment-timezone": "^0.5.37",
+    "openai": "^3.3.0",
+    "puppeteer": "^20.8.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.19.3"
+  }
+}
